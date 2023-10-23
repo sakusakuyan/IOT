@@ -1,4 +1,4 @@
-# ペット見守りカメラ+機能プロトタイプ
-
-## CrowTail+ESP32 dongle
-[見守りカメラ](https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json)
+#
+## 個人開発IoTデバイスコード：IoTデバイスを使いIN/OUTモジュール、任意の通信を使い開発を行う
+* ペットの見守りカメラを想定した＋aの機能を持つデバイスを作成
+* アプリからモードをONにして(Blynkを経由しデバイスへ)、ONの状態で感圧スイッチに信号を受けると、バイブとDCモータが作動
